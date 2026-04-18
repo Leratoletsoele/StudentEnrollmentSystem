@@ -30,7 +30,8 @@ This project is a Java based Student Management System that uses MySQL as the da
 ---
 
 ##  Screenshots
-![System Screenshot](system.png)
+![System Screenshot](System.jpeg)
+![System Screenshot](SignIn.jpeg)
 
 ---
 
